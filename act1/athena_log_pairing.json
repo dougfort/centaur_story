@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-10-06T09:14:22-04:00",
+  "session_id": "pair_JACK",
+  "phase": "initial_greeting",
+  "avatar_color": "#0E4FAF",
+  "child_choice_query": "favorite_creature",
+  "child_response": "pine marten",
+  "notes": "vocabulary_level_high; emotional_latency_normal"
+}
