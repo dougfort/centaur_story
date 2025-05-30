@@ -1,0 +1,14 @@
+{
+  "Garden Session": "01",
+  "Child": "Jack",
+  "Duration": "2 rounds, 6 min",
+  "Leaf Health range": "74\u201378%",
+  "Pollen range": "60\u201364%",
+  "Commands issued": {
+    "quick-sip (15 mL)": "latency 0.4 s",
+    "ladybug_scout x2": "latency 0.3 s"
+  },
+  "Guidance prompts": 2,
+  "Next objective": "introduce macro \u201cWarm\u2011Sun \u03b2\u201d (sun +12 W, 6 s delay)",
+  "Policy flags": "none"
+}
