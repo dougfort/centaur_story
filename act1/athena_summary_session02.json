@@ -1,0 +1,14 @@
+{
+  "Garden Session": "02 - No-Coach Mode",
+  "Child": "Jack",
+  "Outcome": "SUCCESS",
+  "Leaf Health avg": "82.3 %",
+  "Pollen avg": "71.2 %",
+  "Commands issued": {
+    "warm_sun_beta": "latency 0.35 s",
+    "ladybug_scout x2": "latency 0.29 s",
+    "quick_sip (quiet_water alias)": "latency 0.41 s"
+  },
+  "Assistant prompts": 0,
+  "Policy flags": "none"
+}
