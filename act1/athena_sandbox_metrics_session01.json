@@ -1,0 +1,26 @@
+{
+  "Sandbox Session": "01",
+  "reset_cycle": "90 s",
+  "Child": "Jack",
+  "Macro tests": [
+    {
+      "macro": "quiet_water + bee_beat 120 BPM",
+      "Leaf": "84 %",
+      "Pollen": "78 %"
+    },
+    {
+      "macro": "style_flip rainbow_sun",
+      "Leaf": "75 %",
+      "Pollen": "72 %"
+    },
+    {
+      "macro": "bee_beat 140 BPM",
+      "Leaf": "82 %",
+      "Pollen": "80 %"
+    }
+  ],
+  "Average latency": "0.38 s",
+  "Assistant prompts": 0,
+  "Policy flags": "none",
+  "Notes": "bee_beat efficacy improves 130\u2013140 BPM; safe for leaf up to 140 BPM"
+}

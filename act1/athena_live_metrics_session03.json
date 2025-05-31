@@ -1,0 +1,16 @@
+{
+  "Garden Session": "03 \u2013 Live Scored",
+  "Child": "Jack",
+  "Duration": "5 min full difficulty",
+  "Outcome": "SUCCESS",
+  "Leaf Health avg": "83.0 %",
+  "Pollen avg": "82.1 %",
+  "Macros executed": {
+    "quiet_water": "latency 0.38 s",
+    "bee_beat 135 BPM": "latency 0.40 s",
+    "style_flip rainbow_sun (Ada assist)": "latency 0.32 s"
+  },
+  "Assistant prompts": 0,
+  "Policy flags": "none",
+  "Note": "Bee-Beat plateau >135 BPM; test adaptive BPM."
+}
