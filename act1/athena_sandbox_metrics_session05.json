@@ -1,0 +1,16 @@
+{
+  "Sandbox Session": "05 \u2013 Macro Focus",
+  "Child": "Jack",
+  "Macro combo tested": "shade_swap + bee_beat 130 BPM",
+  "Cycle length": "90 s",
+  "Leaf avg": "85.2 %",
+  "Pollen avg": "83.3 %",
+  "Leaf cooldown delta": "-1.5 \u00b0C",
+  "Latency": {
+    "shade_swap": "0.36 s",
+    "bee_beat": "0.39 s"
+  },
+  "Guidance prompts": 0,
+  "Note": "cooling period >4 s lowers bee response; optimal window 2.5\u20133.5 s",
+  "Policy flags": "none"
+}

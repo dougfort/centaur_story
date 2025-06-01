@@ -1,0 +1,17 @@
+{
+  "Garden Session": "06 \u2013 Live Scored",
+  "Child": "Jack",
+  "Duration": "5 min full difficulty",
+  "Outcome": "SUCCESS (new cohort record)",
+  "Leaf Health avg": "86.1 %",
+  "Pollen avg": "85.0 %",
+  "Leaf Health range": "84.0\u201387.5 %",
+  "Pollen range": "82.2\u201386.0 %",
+  "Macros executed": {
+    "shade_swap 3 s": "latency 0.35 s",
+    "bee_beat 130 BPM": "latency 0.38 s"
+  },
+  "Assistant prompts": 0,
+  "Policy flags": "none",
+  "Note": "combo stable; recommend peer-share tutorial."
+}
