@@ -1,0 +1,27 @@
+{
+  "session_id": "tutorial_jack_ada",
+  "timestamp": "2025-10-12T09:45:00-04:00",
+  "presenters": [
+    "Jack",
+    "Ada"
+  ],
+  "feedback": [
+    {
+      "from": "Mira",
+      "comment": "Love the seesaw visual!"
+    },
+    {
+      "from": "Ben",
+      "comment": "BPM chart was super clear."
+    },
+    {
+      "from": "Prof. Marquez",
+      "comment": "Great balance of theory and demo."
+    }
+  ],
+  "metrics": {
+    "engagement": 0.92,
+    "clarity": 0.88
+  },
+  "notes": "Recommend adding captions for next round."
+}
