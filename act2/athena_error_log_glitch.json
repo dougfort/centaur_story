@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-10-08T09:12:35-04:00",
+  "session_id": "eco_sim_live_01",
+  "child": "Jack",
+  "event": "macro_execution",
+  "macro": "rainfall",
+  "status": "error",
+  "error_code": "ORA_TIMEOUT",
+  "message": "No response from resource advisor module within timeout window",
+  "fallback": "offline",
+  "actions": [
+    {
+      "child_command": "rainfall",
+      "time": "09:12:34.500"
+    },
+    {
+      "system_attempt": "predictive_model",
+      "time": "09:12:35.000"
+    },
+    {
+      "system_error": "timeout",
+      "time": "09:12:35.350"
+    }
+  ]
+}
